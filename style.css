@@ -1,0 +1,17 @@
+.origami{
+    display:flex;
+    justify-content: space-between;
+    
+
+}
+.sub{
+    padding: 15px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a.link{
+    color:red
+}
+a.visited{
+    color:blanchedalmond
+}
